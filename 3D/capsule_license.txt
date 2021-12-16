@@ -1,0 +1,7 @@
+Example model from
+http://paulbourke.net/dataformats/obj/minobj.html
+
+
+Minimal textured obj file tutorial 
+Written by Paul Bourke
+March 2012
