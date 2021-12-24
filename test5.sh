@@ -2,7 +2,7 @@
 mkdir build
 cd build
 cmake ..
-make
+make gravity_align_3d
 
 ./gravity_align_3d  ../3D/Nefertiti.obj  ../3D/Nefertiti.obj.mtl ../3D/
 exit 0

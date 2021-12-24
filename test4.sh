@@ -2,7 +2,7 @@
 mkdir build
 cd build
 cmake ..
-make
+make gravity_align_3d
 
 ./gravity_align_3d  ../3D/tiger.obj  ../3D/tiger.obj.mtl ../3D/
 exit 0
